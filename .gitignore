@@ -60,3 +60,6 @@ coverage/
 # Ignore docker and build artifacts
 docker-compose.override.yml
 Dockerfile.local
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat

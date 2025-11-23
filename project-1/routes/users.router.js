@@ -8,5 +8,5 @@ userRoute.post('/register', register)
 userRoute.get('/get-user', getUser)
 
 module.exports = { userRoute }
-
+;
 // v1/api/users/get-user
